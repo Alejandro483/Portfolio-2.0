@@ -145,6 +145,10 @@ padding: 3rem;
     box-shadow: var(--shadow);
 }
 
+.textarea {
+    
+}
+
 /* FOOTER */
 footer {
     margin-top: 2rem;
